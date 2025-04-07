@@ -59,10 +59,9 @@ Analyze sales data using Python to identify product performance, monthly trends,
 ![Category Sales](screenshots/sales_by_category.png)
 
 ---
+### 📊 Tableau Dashboard (PDF)
+[Download Dashboard (PDF)](https://github.com/maheshkumarsaara/Sales-Data-Analysis/blob/main/Dashboard%201.pdf)
 
 ## 📌 Author
 **Mahesh Kumar Saara**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
-_Data Analyst Enthusiast | Python | SQL | Data Visualization_
-
-
+[LinkedIn]([(https://www.linkedin.com/in/mahesh-kumar-saara-0b476191/)]) | [GitHub](https://github.com/)  
