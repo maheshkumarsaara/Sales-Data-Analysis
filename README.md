@@ -60,8 +60,8 @@ Analyze sales data using Python to identify product performance, monthly trends,
 
 ---
 ### 📊 Tableau Dashboard (PDF)
-[Download Dashboard (PDF)](https://github.com/maheshkumarsaara/Sales-Data-Analysis/blob/main/Dashboard%201.pdf)
+[Download Dashboard (PDF)]((https://public.tableau.com/app/profile/mahesh.kumar.saara/viz/SalesData_17440221346480/Dashboard1))
 
 ## 📌 Author
 **Mahesh Kumar Saara**  
-[LinkedIn]((https://www.linkedin.com/in/mahesh-kumar-saara-0b476191/)) | [GitHub](https://github.com/)  
+[LinkedIn](https://www.linkedin.com/in/mahesh-kumar-saara-0b476191/) | [GitHub](https://github.com/)  
