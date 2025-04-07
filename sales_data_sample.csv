@@ -1,0 +1,7 @@
+Order ID,Order Date,Product,Category,Sales,Customer,City
+1,2023-01-01,Laptop,Electronics,1200,Alice,Hyderabad
+2,2023-01-02,Mouse,Accessories,25,Bob,Delhi
+3,2023-01-04,Keyboard,Accessories,50,Charlie,Mumbai
+4,2023-01-04,Monitor,Electronics,200,Dave,Hyderabad
+5,2023-01-05,Laptop,Electronics,1250,Eve,Delhi
+6,2023-01-06,Mouse,Accessories,27,Frank,Mumbai
