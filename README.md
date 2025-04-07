@@ -64,4 +64,4 @@ Analyze sales data using Python to identify product performance, monthly trends,
 
 ## 📌 Author
 **Mahesh Kumar Saara**  
-[LinkedIn]([(https://www.linkedin.com/in/mahesh-kumar-saara-0b476191/)]) | [GitHub](https://github.com/)  
+[LinkedIn]((https://www.linkedin.com/in/mahesh-kumar-saara-0b476191/)) | [GitHub](https://github.com/)  
